@@ -2,6 +2,9 @@
 
 - CRA
 - Configured Tailwind css
+- Header
+- Login form
+- Signup form
 
 # Features
 
@@ -15,5 +18,5 @@
     - Movie suggestion
       - Movie list \* N
 - Netflix GPT
-    - Search Bar
-    - Movie suggestions
+  - Search Bar
+  - Movie suggestions
