@@ -2,9 +2,17 @@
 
 - CRA
 - Configured Tailwind css
+- Routing
 - Header
 - Login form
 - Signup form
+- Form Validation: useRef
+- useRef Hook
+- Firebase setup
+- Deploy app
+- Create signup user account
+- Create signin
+- Create Store user data in redux
 
 # Features
 
